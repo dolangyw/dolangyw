@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile.svg" width="100%" alt="Cyber Profile">
+<img src="./assets/profile.svg" width="100%" alt="Profile">
 
 <br>
 
@@ -33,7 +33,7 @@ Full Stack Developer • Node.js • JavaScript • Firebase • Roblox
 ║ ROLE       : FULL STACK DEVELOPER                        ║
 ║ STATUS     : ONLINE                                      ║
 ║ CORE       : NODE.JS / JAVASCRIPT                        ║
-║ DATABASE   : FIREBASE                                   ║
+║ DATABASE   : FIREBASE / MONGODB                                  ║
 ║ PLATFORM   : WEB / ROBLOX / AUTOMATION                   ║
 ║                                                          ║
 ║ SECURITY   : ACTIVE                                      ║
