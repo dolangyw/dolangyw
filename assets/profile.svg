@@ -512,7 +512,7 @@
 
 
     <image
-        src="./assets/profile.jpg"
+        href=""
         x="490"
         y="150"
         width="420"
