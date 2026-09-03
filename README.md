@@ -20,3 +20,5 @@ Full Stack Developer • Node.js • JavaScript • Firebase • Roblox
 </p>
 
 </div>
+
+<a href="https://ibb.co.com/SDssvVRj"><img src="https://i.ibb.co.com/My22NPMv/Screenshot-2026-09-04-01-07-10-452-com-whatsapp-w4b.png" alt="Screenshot-2026-09-04-01-07-10-452-com-whatsapp-w4b" border="0"></a>
