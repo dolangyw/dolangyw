@@ -20,22 +20,3 @@ Full Stack Developer • Node.js • JavaScript • Firebase • Roblox
 </p>
 
 </div>
-
----
-
-## SYSTEM PROFILE
-
-```text
-╔══════════════════════════════════════════════════════════╗
-║ SYSTEM STATUS                                           ║
-║                                                          ║
-║ USER       : KEVIN FERNANDO                              ║
-║ ROLE       : FULL STACK DEVELOPER                        ║
-║ STATUS     : ONLINE                                      ║
-║ CORE       : NODE.JS / JAVASCRIPT                        ║
-║ DATABASE   : FIREBASE / MONGODB                                  ║
-║ PLATFORM   : WEB / ROBLOX / AUTOMATION                   ║
-║                                                          ║
-║ SECURITY   : ACTIVE                                      ║
-║ AI CORE    : ONLINE                                      ║
-╚══════════════════════════════════════════════════════════╝
